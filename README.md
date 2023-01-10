@@ -1,7 +1,6 @@
 # Nika-Crowdfunding-dApp
 Nika CrowdFunding dapp for web3 developers and startups. It's smart contract allows users to create and donate to campaigns.
 
-.
 ##  Structs
 
 `Campaign`: This struct stores information about a campaign, including its owner, title, description, target amount, deadline, amount collected, image, an array of donators, and an array of donation amounts.
