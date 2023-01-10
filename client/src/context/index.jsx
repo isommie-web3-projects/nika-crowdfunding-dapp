@@ -1,4 +1,5 @@
 import React, { useContext, createContext } from 'react';
+// import Modal from 'react-modal';
 
 import { useAddress, useContract, useMetamask, useContractWrite } from '@thirdweb-dev/react';
 import { ethers } from 'ethers';
