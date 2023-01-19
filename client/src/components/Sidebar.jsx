@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-
-import { logo, sun } from '../assets';
+import nikaLogo from '../assets/nikaLogo.gif';
+import { sun } from '../assets';
 import { navlinks } from '../constants';
 
 const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => (
@@ -21,7 +21,7 @@ const Sidebar = () => {
   return (
     <div className="flex justify-between items-center flex-col sticky top-5 h-[93vh]">
       <Link to="/">
-        <Icon styles="w-[52px] h-[52px] bg-[#222f5b]" imgUrl={logo} />
+        <Icon styles="w-[100px] h-[100px] bg-[#222f5b]" imgUrl={nikaLogo} />
       </Link>
 
       <div className="flex-1 flex flex-col justify-between items-center bg-[#222f5b] rounded-[20px] w-[76px] py-4 mt-12">
