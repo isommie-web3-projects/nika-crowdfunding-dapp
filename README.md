@@ -4,7 +4,42 @@ Nika Crowdfunding dApp
 Nika CrowdFunding dapp for web3 developers and startups. It's smart contract allows users to create and donate to campaigns.
 
 # Project Snapshots
+
 ![Nika Crowdfunding Pages](./client/src/assets/nika-dapp-live.gif)
+
+# Project Website Link
+This is a decentralized crowdfunding platform built on Ethereum blockchain. The platform allows users to create and support crowdfunding campaigns.
+
+Github Link: https://github.com/anajembaedwin/nika-crowdfunding-dapp
+
+Production Link: https://nika-crowdfunding-dapp.vercel.app/
+
+# Project Author
+
+Edwin Anajemba - Initial work
+
+Github Link: https://github.com/anajembaedwin
+
+# How to Install and Run the Project
+### Clone the repository
+
+```javascript
+git clone https://github.com/anajembaedwin/nika-crowdfunding-dapp.git
+```
+
+### Install the dependencies
+
+```javascript
+npm install
+```
+
+### Start the development server
+
+```javascript
+npm run dev
+```
+
+### Open http://localhost:3000 to view it in the browser.
 
 ##  Structs
 
@@ -87,7 +122,7 @@ This package.json file is used to manage the dependencies and scripts for a clie
 - `tailwindcss`: This is a CSS framework.
 - `vite`: This is a web development build tool.
 
-# How to Set up and run the Nika-Crowdund-Project project with Thirdweb, Hardhat, and React
+# How Nika-Crowdund-Project project was setup with Thirdweb, Hardhat, and React
 
 ## Technologies
 - Thirdweb
