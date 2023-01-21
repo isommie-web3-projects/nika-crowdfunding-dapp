@@ -126,12 +126,12 @@ This package.json file is used to manage the dependencies and scripts for a clie
 - `vite`: This is a web development build tool.
 
 
-# How Nika-Crowdfunding-Project was setup with Thirdweb, Hardhat, and React
+# How Nika-Crowdfunding-Project was setup with Thirdweb, Hardhat, and Vite
 
 ## Technologies
-- Thirdweb
-- Hardhat
-- Vite
+- Thirdweb (Web3 Framework)
+- Hardhat (Smart Contract Framework)
+- Vite (React Framework)
 
 ## Contract setup
 1. Run `npx thirdweb@latest create --contract` to create a new contract project.
