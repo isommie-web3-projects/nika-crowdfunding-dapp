@@ -41,9 +41,9 @@ const Landing = () => {
             <img src={nikaLogo} alt="nikaLogo" className="w-[300px] h-[200px] object-contain"/>
             </div>
             
-            <div className="flex flex-col items-center justify-center pt-10">
-            <h2 className="text-2xl font-medium text-gray-200 mb-4 animate-bounce duration-2s infinite sm:text-xs lg:text-4xl">Welcome to Our Crowdfunding Platform</h2>
-            <p className="text-xl font-medium text-gray-300 mb-8 animate-bounce duration-2s infinite sm:text-xs lg:text-base">
+            <div className="flex flex-col items-center justify-center pt-10 ">
+            <h2 className="text-2xl font-medium text-gray-200 mb-4 animate-bounce duration-2s infinite sm:text-sm flex items-center lg:text-4xl">Welcome to Our Crowdfunding Platform</h2>
+            <p className="text-xl font-medium text-gray-300 mb-8 animate-bounce duration-2s infinite sm:text-xs flex items-center lg:text-base">
                 Browse and support amazing campaigns created by passionate people.
             </p>
 
@@ -60,7 +60,7 @@ const Landing = () => {
                     Browse Campaigns
             </button> */}
 
-              <div className="sm:flex hidden flex-row justify-end gap-4">
+              <div className="sm:flex flex-row justify-end gap-4">
                 <CustomButton 
                   btnType="button"
                   title={address ? 'Browse Campaigns' : 'Campaigns'}
