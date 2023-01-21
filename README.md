@@ -97,7 +97,7 @@ None.
 None.
 
 
-# Explaining Nika-Crowdfunding-Client
+# Explaining the Nika-Crowdfunding-Client
 
 This package.json file is used to manage the dependencies and scripts for a client project built with Thirdweb, React, and Vite.
 
@@ -130,7 +130,7 @@ This package.json file is used to manage the dependencies and scripts for a clie
 
 ## Technologies
 - Thirdweb (Web3 Framework)
-- Hardhat (Smart Contract Framework)
+- Hardhat (Smart Contract development environment)
 - Vite (React Framework)
 
 ## Contract setup
