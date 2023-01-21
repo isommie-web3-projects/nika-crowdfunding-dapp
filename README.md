@@ -4,8 +4,7 @@ Nika Crowdfunding dApp
 Nika CrowdFunding dapp for web3 developers and startups. It's smart contract allows users to create and donate to campaigns.
 
 # Project Snapshots
-[![Nika Crowdfunding Pages](./client/src/assets/nika-dapp-live.gif)]
-<!-- <video src='https://www.loom.com/share/5a9939d9b69441e7bfd23059651c8326' width=180/> -->
+![Nika Crowdfunding Pages](./client/src/assets/nika-dapp-live.gif)
 
 ##  Structs
 
