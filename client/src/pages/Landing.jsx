@@ -42,9 +42,9 @@ const Landing = () => {
             </div>
             
             <div className="flex flex-col items-center justify-center pt-10 ">
-            <h2 className="text-2xl font-medium text-gray-200 mb-4 animate-bounce duration-2s infinite sm:text-sm flex items-center lg:text-4xl">Welcome to Our Crowdfunding Platform</h2>
+            <h2 className="text-2xl font-medium text-gray-200 mb-4 animate-bounce duration-2s infinite sm:text-sm flex items-center lg:text-4xl">Welcome to Nika Crowdfunding Platform</h2>
             <p className="text-xl font-medium text-gray-300 mb-8 animate-bounce duration-2s infinite sm:text-xs flex items-center lg:text-base">
-                Browse and support amazing campaigns created by passionate people.
+                Browse and support amazing campaigns.
             </p>
 
 
