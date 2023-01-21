@@ -38,8 +38,10 @@ npm install
 ```javascript
 npm run dev
 ```
+### Port to Run the Website
+Open http://localhost:3000 or any other port available to view it in the browser.
 
-### Open http://localhost:3000 or any other port available to view it in the browser.
+Ensure you are using the `Goerli Network` on your `metamask wallet` or any other wallet when connecting.
 
 
 
@@ -50,12 +52,12 @@ The smart contract was deployed at:
 
 https://thirdweb.com/goerli/0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44/sources
 
-On this address:
+With this address:
 
 ```
 0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44
 ```
-
+On the `GOERLI TESTNET`.
 
 ## Web3 Package.json Scripts
 
