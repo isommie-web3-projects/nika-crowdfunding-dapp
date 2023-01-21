@@ -5,7 +5,7 @@ Nika CrowdFunding dapp for web3 developers and startups. It's smart contract all
 
 # Project Snapshots
 [![Nika Crowdfunding Pages](./client/src/assets/nika-dapp-live.gif)]
-<video src='https://www.loom.com/share/5a9939d9b69441e7bfd23059651c8326' width=180/>
+<!-- <video src='https://www.loom.com/share/5a9939d9b69441e7bfd23059651c8326' width=180/> -->
 
 ##  Structs
 
