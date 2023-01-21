@@ -1,9 +1,9 @@
 # Project Title
 Nika Crowdfunding dApp
 # Project Description
-Nika CrowdFunding dapp for web3 developers and startups. It's smart contract allows users to create and donate to campaigns.
+Nika CrowdFunding dapp for web3 developers and startups. Its smart contract allows users to create and donate to campaigns.
 
-# Project Snapshots
+# Project Snapshot
 
 ![Nika Crowdfunding Pages](./client/src/assets/nika-dapp-live.gif)
 
@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-### Open http://localhost:3000 to view it in the browser.
+### Open http://localhost:3000 or any other port available to view it in the browser.
 
 
 
@@ -126,11 +126,12 @@ This package.json file is used to manage the dependencies and scripts for a clie
 - `vite`: This is a web development build tool.
 
 
-# How Nika-Crowdund-Project project was setup with Thirdweb, Hardhat, and React
+# How Nika-Crowdfunding-Project was setup with Thirdweb, Hardhat, and React
 
 ## Technologies
 - Thirdweb
 - Hardhat
+- Vite
 
 ## Contract setup
 1. Run `npx thirdweb@latest create --contract` to create a new contract project.
@@ -182,4 +183,14 @@ plugins: [],
 }
 ```
 
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+Grandida is a License partner.
+
+
+### Attribution
+
+Some parts of the code were adapted from Thirweb
+
+> **DO NOT USE WITHOUT THE PERMISSION OF GRANDIDA**
