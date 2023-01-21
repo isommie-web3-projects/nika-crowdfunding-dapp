@@ -10,7 +10,7 @@ const Landing = () => {
   const navigate = useNavigate();
   const [isLoading, setIsLoading] = useState(false);
   const [campaigns, setCampaigns] = useState([]);
-  // const [showCampaigns, setShowCampaigns] = useState(false);
+  const [showCampaigns, setShowCampaigns] = useState(false);
 
 
   const { address, contract, getCampaigns, connect} = useStateContext();
