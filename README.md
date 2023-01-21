@@ -42,6 +42,7 @@ npm run dev
 ### Open http://localhost:3000 to view it in the browser.
 
 
+
 # Nika-Crowdfunding-SmartContract
 
 ## The Contract
@@ -96,7 +97,7 @@ None.
 None.
 
 
-# Client
+# Nika-Crowdfunding-Client
 
 This package.json file is used to manage the dependencies and scripts for a client project built with Thirdweb, React, and Vite.
 
@@ -123,6 +124,7 @@ This package.json file is used to manage the dependencies and scripts for a clie
 - `postcss`: This is a tool for transforming styles with JavaScript.
 - `tailwindcss`: This is a CSS framework.
 - `vite`: This is a web development build tool.
+
 
 # How Nika-Crowdund-Project project was setup with Thirdweb, Hardhat, and React
 
