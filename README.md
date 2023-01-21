@@ -47,7 +47,14 @@ npm run dev
 
 ## The Contract
 The smart contract was deployed at:
-https://thirdweb.com/goerli/0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44/
+
+https://thirdweb.com/goerli/0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44/sources
+
+On this address:
+
+```
+0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44
+```
 
 
 ## Web3 Package.json Scripts
