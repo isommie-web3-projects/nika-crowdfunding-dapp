@@ -41,6 +41,17 @@ npm run dev
 
 ### Open http://localhost:3000 to view it in the browser.
 
+
+# Nika-Crowdfunding-SmartContract
+
+This package.json file is used to manage the dependencies and scripts for a project built with Thirdweb and Hardhat.
+
+## Scripts
+
+- `build`: This script runs the `detect` command from the Thirdweb CLI to build the project.
+- `deploy`: This script runs the `deploy` command from the Thirdweb CLI to deploy the built contracts to the specified network.
+- `release`: This script runs the `release` command from the Thirdweb CLI to release the built contracts to the specified package registry.
+
 ##  Structs
 
 `Campaign`: This struct stores information about a campaign, including its owner, title, description, target amount, deadline, amount collected, image, an array of donators, and an array of donation amounts.
@@ -70,18 +81,6 @@ npm run dev
 ##  Events
 
 None.
-
-
-
-# Nika-Crowdfunding-SmartContract
-
-This package.json file is used to manage the dependencies and scripts for a project built with Thirdweb and Hardhat.
-
-## Scripts
-
-- `build`: This script runs the `detect` command from the Thirdweb CLI to build the project.
-- `deploy`: This script runs the `deploy` command from the Thirdweb CLI to deploy the built contracts to the specified network.
-- `release`: This script runs the `release` command from the Thirdweb CLI to release the built contracts to the specified package registry.
 
 ## Dependencies
 
