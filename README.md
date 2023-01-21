@@ -44,9 +44,12 @@ npm run dev
 
 # Nika-Crowdfunding-SmartContract
 
-This package.json file is used to manage the dependencies and scripts for a project built with Thirdweb and Hardhat.
+## The Contract
+The smart contract was deployed at:
+https://thirdweb.com/goerli/0xE6ac95DE3f96C6FCAFd1Ae8462A56ffB1A4B8A44/
 
-## Scripts
+
+## Web3 Package.json Scripts
 
 - `build`: This script runs the `detect` command from the Thirdweb CLI to build the project.
 - `deploy`: This script runs the `deploy` command from the Thirdweb CLI to deploy the built contracts to the specified network.
@@ -93,11 +96,11 @@ None.
 None.
 
 
-# client
+# Client
 
 This package.json file is used to manage the dependencies and scripts for a client project built with Thirdweb, React, and Vite.
 
-## Scripts
+## Client Package.json Scripts
 
 - `dev`: This script runs the Vite development server.
 - `build`: This script builds the project for production with Vite.
