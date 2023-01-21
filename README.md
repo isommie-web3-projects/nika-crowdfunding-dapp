@@ -43,7 +43,7 @@ npm run dev
 
 
 
-# Nika-Crowdfunding-SmartContract
+# Explaining the Nika-Crowdfunding-SmartContract
 
 ## The Contract
 The smart contract was deployed at:
@@ -97,7 +97,7 @@ None.
 None.
 
 
-# Nika-Crowdfunding-Client
+# Explaining Nika-Crowdfunding-Client
 
 This package.json file is used to manage the dependencies and scripts for a client project built with Thirdweb, React, and Vite.
 
