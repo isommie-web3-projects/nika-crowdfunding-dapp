@@ -21,24 +21,24 @@ Edwin Anajemba - Initial work
 Github Link: https://github.com/anajembaedwin
 
 # How to Install and Run the Project
-### Clone the repository
+**Clone the repository**
 
 ```javascript
 git clone https://github.com/anajembaedwin/nika-crowdfunding-dapp.git
 ```
 
-### Install the dependencies
+**Install the dependencies**
 
 ```javascript
 npm install
 ```
 
-### Start the development server
+**Start the development server**
 
 ```javascript
 npm run dev
 ```
-### Port to Run the Website
+**Port to Run the Website**
 Open http://localhost:3000 or any other port available to view it in the browser.
 
 Ensure you are using the `Goerli Network` on your `metamask wallet` or any other wallet when connecting.
