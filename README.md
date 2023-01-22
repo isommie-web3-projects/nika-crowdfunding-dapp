@@ -27,6 +27,12 @@ Github Link: https://github.com/anajembaedwin
 git clone https://github.com/anajembaedwin/nika-crowdfunding-dapp.git
 ```
 
+**cd into the Client Folder**
+
+```bash
+cd nika-crowdfunding-dapp && cd client
+```
+
 **Install the dependencies**
 
 ```javascript
@@ -193,9 +199,7 @@ plugins: [],
 ```
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Grandida is a License partner.
+This project is licensed under Grandida License - see the LICENSE.md file for details.
 
 
 ### Attribution
