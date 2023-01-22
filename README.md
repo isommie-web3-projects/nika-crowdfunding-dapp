@@ -45,9 +45,15 @@ npm install
 npm run dev
 ```
 **Port to Run the Website**
-Open http://localhost:3000 or any other port available to view it in the browser.
 
-Ensure you are using the `Goerli Network` on your `metamask wallet` or any other wallet when connecting.
+```
+http://localhost:3000
+```
+or any other port available to view it in the browser.
+
+- No required input/output files.
+
+- Ensure you are using the `Goerli Test Network` on your `metamask wallet` or any other wallet when connecting.
 
 
 
