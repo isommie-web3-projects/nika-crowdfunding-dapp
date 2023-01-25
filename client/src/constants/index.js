@@ -17,6 +17,12 @@ export const navlinks = [
     link: '/profile',
   },
   // {
+  //   name: 'logout',
+  //   imgUrl: logout,
+  //   disabled: true,
+  //   link: '/',
+  // },
+  // {
   //   name: 'payment',
   //   imgUrl: payment,
   //   link: '/',
@@ -26,11 +32,7 @@ export const navlinks = [
   //   imgUrl: withdraw,
   //   link: '/',
   // },
-  // {
-  //   name: 'logout',
-  //   imgUrl: logout,
-  //   link: '/',
-  // },
+
 ];
 
 // disabled: true,

@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import nikaLogo from '../assets/nikaLogo.gif';
-import { sun } from '../assets';
+import { sun, logout  } from '../assets';
 import { navlinks } from '../constants';
+import { useStateContext } from '../context';
 
 const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => (
   <div className={`w-[48px] h-[48px] rounded-[10px] ${isActive && isActive === name && 'bg-[#2c2f32]'} flex justify-center items-center ${!disabled && 'cursor-pointer'} ${styles}`} onClick={handleClick}>
@@ -14,9 +15,23 @@ const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => (
   </div>
 )
 
+
+
+
 const Sidebar = () => {
   const navigate = useNavigate();
   const [isActive, setIsActive] = useState('dashboard');
+
+  // const { connect, disconnect } = useStateContext();
+
+  // Logout handle not working yet
+  const handleLogout = () => {
+    navigate(" ");
+    // if(connect) {
+    //   // disconnect();
+    //   navigate("/");
+    // }
+  }
 
   return (
     <div className="flex justify-between items-center flex-col sticky top-5 h-[93vh]">
@@ -40,8 +55,10 @@ const Sidebar = () => {
             />
           ))}
         </div>
+        <Icon styles="bg-[#0e1a40] shadow-secondary" imgUrl={logout} onClick={handleLogout} />
 
-        <Icon styles="bg-[#0e1a40] shadow-secondary" imgUrl={sun} />
+        {/* <Icon styles="bg-[#0e1a40] shadow-secondary" imgUrl={logout} /> */}
+        {/* <Icon styles="bg-[#0e1a40] shadow-secondary" imgUrl={sun} /> */}
       </div>
     </div>
   )
