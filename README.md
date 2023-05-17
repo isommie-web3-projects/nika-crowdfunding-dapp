@@ -16,7 +16,7 @@ Production Link: https://nika-crowdfunding-dapp.vercel.app/
 
 # Project Author
 
-Edwin Anajemba - Initial work
+Edwin - Initial work
 
 Github Link: https://github.com/anajembaedwin
 
